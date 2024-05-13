@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "MegaMath Site"
 
 [params]
 displayName = "EN"
@@ -12,3 +12,4 @@ dateFormat = "2 January 2006"
 [author]
 name = "James Stewart"
 links = [ { github = "https://github.com/jcstewart13" }, { youtube = "https://youtube.com/@megahertz13" } ]
+image = "headshot.png"
