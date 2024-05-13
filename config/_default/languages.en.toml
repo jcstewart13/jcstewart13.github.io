@@ -10,4 +10,5 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [author]
-name = "James"
+name = "James Stewart"
+links = [ { github = "https://github.com/jcstewart13" }, { youtube = "https://youtube.com/@megahertz13" } ]
