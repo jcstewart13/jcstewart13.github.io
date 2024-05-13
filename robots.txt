@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jcstewart13.github.io/sitemap.xml
