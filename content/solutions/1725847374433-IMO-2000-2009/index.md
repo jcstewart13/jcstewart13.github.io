@@ -1,5 +1,5 @@
 ---
-title: "Solutions to IMO Problems (2000-2009)"
+title: "Solutions to IMO Problems (2005-2019)"
 date: 2024-09-09
 draft: false
 description: "a description"
@@ -10,4 +10,8 @@ tags: ["example", "tag"]
 [Video Solution](https://www.youtube.com/watch?v=-rRPkQrmzJw&t=2s)
 
 [Typed Solution](2005_IMO_P4.pdf)
+
+2018 IMO P4:
+
+[Typed Solution](2018_IMO_P4.pdf)
 
