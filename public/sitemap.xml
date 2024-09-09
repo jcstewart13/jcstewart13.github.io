@@ -3,26 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/solutions/1725847374433-2005-imo-4/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/1715563059537-modular-arithmetic-handout---part-1/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/solutions/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/projects/1715561201220-orbital-mechanics/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

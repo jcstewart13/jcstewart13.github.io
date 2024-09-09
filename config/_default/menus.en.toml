@@ -7,5 +7,17 @@ pageRef = "projects"
 identifier = "QPIB9CQXmW"
 weight = 9999
 
+[[main]]
+name = "Solutions"
+pageRef = "solutions"
+identifier = "WL0LBr3Dhm"
+weight = 9999
+
+[[main]]
+name = "Problems"
+pageRef = "problems"
+identifier = "aPs7fdop9o"
+weight = 9999
+
 [[footer]]
 none = "none"
