@@ -1,15 +1,8 @@
 ---
-title: "2024 IMO P5"
-date: 2024-09-10
+title: "New Video: My Current Favorite Problem: A fun Combinatorial Geo Problem"
+date: 2024-09-5
 draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
- an example to get you started
-# This is a heading
-## This is a subheading
-### This is a subsubheading
-#### This is a subsubsubheading
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+Check more at [New YouTube Video](https://www.youtube.com/watch?v=AMX83N1gekE)
