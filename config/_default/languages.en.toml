@@ -11,6 +11,5 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "James Stewart"
-links = [ { youtube = "youtube.com/@megahertz13" } ]
+links = [ { github = "https://github.com/jcstewart13" }, { youtube = "https://youtube.com/@megahertz13" } ]
 image = "headshot.png"
-headline = "James' page"
