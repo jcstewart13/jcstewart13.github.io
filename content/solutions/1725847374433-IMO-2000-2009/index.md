@@ -19,6 +19,10 @@ tags: ["example", "tag"]
 
 [Video Solution](https://www.youtube.com/watch?v=HP5FnF88LMw&t=3s)
 
+2018 IMO P2:
+
+[Video Solution](2018_IMO_P2.pdf)
+
 2018 IMO P4:
 
 [Typed Solution](2018_IMO_P4.pdf)
