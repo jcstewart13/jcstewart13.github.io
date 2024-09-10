@@ -19,5 +19,12 @@ pageRef = "problems"
 identifier = "aPs7fdop9o"
 weight = 9999
 
+[[main]]
+name = "Videos"
+pre = "youtube"
+pageRef = "videos"
+identifier = "zCchs4UGzy"
+weight = 9999
+
 [[footer]]
 none = "none"
