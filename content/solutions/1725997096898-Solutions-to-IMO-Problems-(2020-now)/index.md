@@ -9,9 +9,12 @@ tags: ["example", "tag"]
 
 [Typed Solution](2023_IMO_P1.pdf)
 
+2024 IMO P1:
+
+[Typed Solution](2024_IMO_P1.pdf)
+
 2024 IMO P5:
 
 [Video Solution](https://www.youtube.com/watch?v=-E4Oab4DImg&t=349s)
-
 
 
