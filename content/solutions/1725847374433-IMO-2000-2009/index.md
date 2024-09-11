@@ -21,7 +21,7 @@ tags: ["example", "tag"]
 
 2018 IMO P2:
 
-[Video Solution](2018_IMO_P2.pdf)
+[Typed Solution](2018_IMO_P2.pdf)
 
 2018 IMO P4:
 
