@@ -5,27 +5,20 @@ draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
-## 2021 IMO
 
-### P1:
+2021 IMO P1:
 
 [Typed Solution](2021_IMO_P1.pdf)
 
-## 2022 IMO
-
-## 2023 IMO
-
-### P1:
+2023 IMO P1: 
 
 [Typed Solution](2023_IMO_P1.pdf)
 
-## 2024 IMO
-
-### P1: 
+2024 IMO P1: 
 
 [Typed Solution](2024_IMO_P1.pdf)
 
-### P5:
+2024 IMO P5:
 
 [Video Solution](https://www.youtube.com/watch?v=-E4Oab4DImg&t=349s)
 
