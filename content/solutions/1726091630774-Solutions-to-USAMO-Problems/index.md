@@ -5,7 +5,11 @@ draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
-2018 USAMO P1
+2011 USAMO P1:
+
+[Typed Solution](2011_USAMO_P1.pdf)
+
+2018 USAMO P1:
 
 [Typed Solution](2018_USAMO_P1.pdf)
 
