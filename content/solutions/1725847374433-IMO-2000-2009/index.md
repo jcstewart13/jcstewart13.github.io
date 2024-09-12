@@ -15,6 +15,10 @@ tags: ["example", "tag"]
 
 [Video Solution](https://www.youtube.com/watch?v=wYNzE2k-QRY)
 
+2012 IMO P2:
+
+[Typed Solution](2012_IMO_P2.pdf)
+
 2013 IMO P4:
 
 [Video Solution](https://www.youtube.com/watch?v=HP5FnF88LMw&t=3s)
