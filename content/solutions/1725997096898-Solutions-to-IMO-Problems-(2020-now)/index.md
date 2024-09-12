@@ -5,6 +5,10 @@ draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
+2021 IMO P1:
+
+[Typed Solution](2021_IMO_P1.pdf)
+
 2023 IMO P1:
 
 [Typed Solution](2023_IMO_P1.pdf)

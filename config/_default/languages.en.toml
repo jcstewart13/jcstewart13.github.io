@@ -8,8 +8,5 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-
-[params.author]
-name = "James Stewart"
-links = [ { github = "https://github.com/jcstewart13" }, { youtube = "https://youtube.com/@megahertz13" } ]
-image = "headshot.png"
+author = { name = "James Stewart", links = [ { github = "https://github.com/jcstewart13" }, { youtube = "https://youtube.com/@megahertz13" } ], image = "headshot.png" }
+logo = "ls"

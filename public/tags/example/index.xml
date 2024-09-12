@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 James Stewart</copyright>
-    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solutions to JMO Problems</title>
+      <link>http://localhost:1313/solutions/1726084003658-solutions-to-jmo-problems/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/solutions/1726084003658-solutions-to-jmo-problems/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/solutions/1726084003658-solutions-to-jmo-problems/featured.png" />
+    </item>
+    
+    <item>
+      <title>Solutions to USAMO Problems</title>
+      <link>http://localhost:1313/solutions/1726091630774-solutions-to-usamo-problems/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/solutions/1726091630774-solutions-to-usamo-problems/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/solutions/1726091630774-solutions-to-usamo-problems/featured.png" />
+    </item>
+    
+    <item>
+      <title>Solutions to IMO Problems (2020-now)</title>
+      <link>http://localhost:1313/solutions/1725997096898-solutions-to-imo-problems-2020-now/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/solutions/1725997096898-solutions-to-imo-problems-2020-now/</guid>
+      <description>2023 IMO P1:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/solutions/1725997096898-solutions-to-imo-problems-2020-now/featured.png" />
+    </item>
+    
     <item>
       <title>Solutions to IMO Problems (2005-2019)</title>
       <link>http://localhost:1313/solutions/1725847374433-imo-2000-2009/</link>
@@ -16,6 +46,16 @@
       <guid>http://localhost:1313/solutions/1725847374433-imo-2000-2009/</guid>
       <description>2005 IMO P4:</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/solutions/1725847374433-imo-2000-2009/featured.png" />
+    </item>
+    
+    <item>
+      <title>New Video: My Current Favorite Problem: A fun Combinatorial Geo Problem</title>
+      <link>http://localhost:1313/videos/1725996629186-2024-imo-p5/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/videos/1725996629186-2024-imo-p5/</guid>
+      <description>New YouTube Video</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/videos/1725996629186-2024-imo-p5/featured.png" />
     </item>
     
     <item>
