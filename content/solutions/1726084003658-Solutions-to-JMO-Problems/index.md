@@ -15,7 +15,7 @@ tags: ["example", "tag"]
 
 2014 JMO P1:
 
-[Typed Solution][2014_JMO_P1.pdf]
+[Typed Solution](2014_JMO_P1.pdf)
 
 2018 JMO P2:
 
