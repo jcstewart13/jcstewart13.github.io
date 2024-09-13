@@ -5,4 +5,6 @@ draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---
+2000 IMO P2:
+
 [Typed Solution](2000_IMO_P2.pdf)
