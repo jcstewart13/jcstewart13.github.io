@@ -2,28 +2,21 @@
 none = "none"
 
 [[main]]
-name = "Projects"
-pageRef = "projects"
+name = "Handouts"
+pageRef = "handouts"
 identifier = "QPIB9CQXmW"
 weight = 9999
 
 [[main]]
-name = "Solutions"
-pageRef = "solutions"
+name = "Competitions"
+pageRef = "competitions"
 identifier = "WL0LBr3Dhm"
 weight = 9999
 
 [[main]]
-name = "Problems"
-pageRef = "problems"
+name = "Projects"
+pageRef = "projects"
 identifier = "aPs7fdop9o"
-weight = 9999
-
-[[main]]
-name = "Videos"
-pre = "youtube"
-pageRef = "videos"
-identifier = "zCchs4UGzy"
 weight = 9999
 
 [[footer]]
